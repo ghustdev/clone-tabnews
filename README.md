@@ -10,6 +10,11 @@ Dia 2 ✅ -> Git e Versionamento;
 Dia 3 ✅ -> Frameworks e dependências: Node.js, Next, React...;
 
 Dia 4 
+
 Dia 5 
+
 Dia 6 
+
 Dia 7 
+
+
