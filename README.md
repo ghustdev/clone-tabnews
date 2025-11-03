@@ -1,7 +1,7 @@
 # clone-tabnews
 Implementação de um clone do Tabnews, projeto desenvolvido pelo Felipe Deschamps para alunos do seu curso Curso.dev
 
---
+---
 # Módulos do Curso:
 Dia 1 ✅ -> Início com a ideia do Projeto;
 
