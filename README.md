@@ -13,7 +13,7 @@ Dia 4 ✅ -> Protocolos HTTP, página inicial e desafio;
 
 Dia 5 ✅ -> Revisão aprofundada sobre Git e versionamento;
 
-Dia 6 
+Dia 6
 
 Dia 7 
 
