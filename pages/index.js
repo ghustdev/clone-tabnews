@@ -1,6 +1,6 @@
 //          Componente React inicial
 function Home() {
-    return <h1>Servidor no ar! hehe</h1>
+    return <h1>Servidor no ar!</h1>
 }
 
 //          Exportar função Home para renderizar página
