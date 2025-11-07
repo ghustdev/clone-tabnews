@@ -27,4 +27,6 @@ Dia 6 ✅ -> Aprofundamento em Git (Push, Merge);
 
 Dia 7 
 
+Dia 8 
+
 
