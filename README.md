@@ -32,9 +32,9 @@ Dia 7 ✅ -> Conexão com Vercel (deploy), importação do repositório e primei
 
 Dia 8 ✅ -> Coenhcimento técnico, planejamento, como ser um programador orgânico e Soft Skills;
 
-Dia 9 ✅ -> Planeajmentoe e  organização, Issues, milestones e Soft Skills;
+Dia 9 ✅ -> Planeajmentoe e  organização, Issues, Milestones e Soft Skills;
 
-Dia 10 
+Dia 10 ✅ ->
 
 Dia 11 
 
