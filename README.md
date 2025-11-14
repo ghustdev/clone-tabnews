@@ -42,9 +42,9 @@ Dia 8 ✅ -> Coenhcimento técnico, planejamento, como ser um programador orgân
 
 Dia 9 ✅ -> Planeajmentoe e organização, Issues, Milestones e Soft Skills;
 
-Dia 10 ✅ ->
+Dia 10 ✅ -> Configurando Prettier, EditorConfig e completando primeira Issue;
 
-Dia 11
+Dia 11 ✅ ->
 
 Dia 12
 
