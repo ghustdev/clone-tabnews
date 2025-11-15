@@ -6,7 +6,7 @@ Esse repositório é a implementação de um clone do Tabnews, que é o projeto 
 
 ### Acesse o site em produção:
 
-[Clone TabNews](https://clone-tabnews-gustavccs-projects.vercel.app/)
+[Clone TabNews](https://tabnewsghustdev.vercel.app/)
 
 #### Conteúdo:
 
