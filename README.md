@@ -6,9 +6,9 @@ Esse repositório é a implementação de um clone do Tabnews, que é o projeto 
 
 ### Acesse o site em produção:
 
-[Clone TabNews](https://tabnewsnet.vercel.app/);
+[Clone TabNews](https://tabnewsnet.vercel.app/)
 
-[tabnews.net.br](https://tabnews.net.br/) -> Domínio real e registrado, para fins de aprendizado;
+[tabnews.net.br](https://tabnews.net.br/) -> Domínio real e registrado, para fins de aprendizado
 
 #### Conteúdo:
 
@@ -46,12 +46,12 @@ Dia 9 ✅ -> Planeajmentoe e organização, Issues, Milestones e Soft Skills;
 
 Dia 10 ✅ -> Configurando Prettier, EditorConfig e completando primeira Issue;
 
-Dia 11 ✅ ->
+Dia 11 ✅ -> Colocando dominio no ar;
 
-Dia 12
+Dia 12 ✅ -> Registrando domínio próprio;
 
-Dia 13k
+Dia 13 ✅ -> Serviços de hospedagem e Status Page;
 
-Dia 14
+Dia 14 ✅ ->
 
 Dia 15
