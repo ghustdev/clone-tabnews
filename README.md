@@ -7,6 +7,7 @@ Esse repositório é a implementação de um clone do Tabnews, que é o projeto 
 ### Acesse o site em produção:
 
 [Clone TabNews](https://tabnewsnet.vercel.app/);
+
 [tabnews.net.br](https://tabnews.net.br/) -> Domínio real e registrado, para fins de aprendizado;
 
 #### Conteúdo:
