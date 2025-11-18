@@ -54,7 +54,7 @@ Dia 13 ✅ -> Serviços de hospedagem e Status Page;
 
 Dia 14 ✅ -> PoC e MVP, Arganização das Pastas, Modelagem e Arquiterura de Software (MVC);
 
-Dia 15 ✅ -> Trabalhando com testes automatizados e instalando o Jest
+Dia 15 ✅ -> Trabalhando com testes automatizados, instalando e usando o Jest
 
 Dia 16
 
