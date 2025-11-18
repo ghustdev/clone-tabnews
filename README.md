@@ -10,7 +10,7 @@ Esse repositório é a implementação de um clone do Tabnews, que é o projeto 
 
 [tabnews.net.br](https://tabnews.net.br/) -> Domínio real e registrado, para fins de aprendizado
 
-#### Conteúdo:
+### Conteúdo:
 
 # Instalar e executar o projeto
 
@@ -18,13 +18,13 @@ Esse repositório é a implementação de um clone do Tabnews, que é o projeto 
 
 # Histórico do desenvolvimento
 
-#### Início do projeto
+### Início do projeto
 
-#### Milestones e Issues - Planejamento
+### Milestones e Issues - Planejamento
 
 [Acesso direto ao GitHub Milestones do projeto](https://github.com/ghustdev/tabnews-clone/milestones)
 
-#### Progresso e linha do tempo:
+### Progresso e linha do tempo:
 
 Dia 1 ✅ -> Início com a ideia do Projeto;
 
