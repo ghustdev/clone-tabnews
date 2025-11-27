@@ -1,15 +1,15 @@
 // Analytics da Vercel
 import { Analytics } from "@vercel/analytics/next";
 
-function MyApp({ Component, pageProps }) {
+function AppHome({ Component, pageProps }) {
   return (
     <>
+      <h1>Analytics da Vercel</h1>
+      
       <Component {...pageProps} />
       <Analytics />
-
-      <h1>Analytics ca Vercel</h1>
     </>
   );
 }
 
-export default MyApp;
+export default AppHome;
