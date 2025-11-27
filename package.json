@@ -13,6 +13,7 @@
   "author": "Gustavo Cardoso Costa",
   "license": "MIT",
   "dependencies": {
+    "@vercel/analytics": "^1.5.0",
     "next": "^16.0.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
